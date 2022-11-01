@@ -1,0 +1,10 @@
+D: 34.55
+RFI: 35.0
+d: 7.92
+data_freq: 25600.0
+device_type: 滚动轴承
+fi: 35.0
+fo: 0.0
+n: 8.0
+sensor_freq: 25600.0
+sensor_type: 加速度

@@ -1,0 +1,75 @@
+一倍BPFI:
+  device_type: 滚动轴承
+  diag_name: 一倍BPFI
+  freq_fault_high: 174.09261939218524
+  freq_fault_low: 170.09261939218524
+一倍BPFO:
+  device_type: 滚动轴承
+  diag_name: 一倍BPFO
+  freq_fault_high: 109.90738060781476
+  freq_fault_low: 105.90738060781476
+一倍BSF:
+  device_type: 滚动轴承
+  diag_name: 一倍BSF
+  freq_fault_high: 74.32996298001724
+  freq_fault_low: 70.32996298001724
+一倍FTF:
+  device_type: 滚动轴承
+  diag_name: 一倍FTF
+  freq_fault_high: 15.488422575976845
+  freq_fault_low: 11.488422575976845
+一倍转频:
+  device_type: 滚动轴承
+  diag_name: 一倍转频
+  freq_fault_high: 37.0
+  freq_fault_low: 33.0
+三倍BPFI:
+  device_type: 滚动轴承
+  diag_name: 三倍BPFI
+  freq_fault_high: 522.2778581765557
+  freq_fault_low: 510.2778581765557
+三倍BPFO:
+  device_type: 滚动轴承
+  diag_name: 三倍BPFO
+  freq_fault_high: 329.7221418234443
+  freq_fault_low: 317.7221418234443
+三倍BSF:
+  device_type: 滚动轴承
+  diag_name: 三倍BSF
+  freq_fault_high: 222.98988894005174
+  freq_fault_low: 210.98988894005174
+三倍FTF:
+  device_type: 滚动轴承
+  diag_name: 三倍FTF
+  freq_fault_high: 46.46526772793054
+  freq_fault_low: 34.46526772793054
+三倍转频:
+  device_type: 滚动轴承
+  diag_name: 三倍转频
+  freq_fault_high: 74.0
+  freq_fault_low: 66.0
+两倍BPFI:
+  device_type: 滚动轴承
+  diag_name: 两倍BPFI
+  freq_fault_high: 348.1852387843705
+  freq_fault_low: 340.1852387843705
+两倍BPFO:
+  device_type: 滚动轴承
+  diag_name: 两倍BPFO
+  freq_fault_high: 219.81476121562952
+  freq_fault_low: 211.81476121562952
+两倍BSF:
+  device_type: 滚动轴承
+  diag_name: 两倍BSF
+  freq_fault_high: 148.65992596003449
+  freq_fault_low: 140.65992596003449
+两倍FTF:
+  device_type: 滚动轴承
+  diag_name: 两倍FTF
+  freq_fault_high: 30.97684515195369
+  freq_fault_low: 22.97684515195369
+两倍转频:
+  device_type: 滚动轴承
+  diag_name: 两倍转频
+  freq_fault_high: 74.0
+  freq_fault_low: 66.0
